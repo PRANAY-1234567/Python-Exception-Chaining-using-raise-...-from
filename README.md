@@ -168,7 +168,6 @@ Exception chaining is useful when:
 **Pranay Jadhao**
 
 Electronics & Telecommunication Engineer
-
 Aspiring Software Engineer | Python | SQL | Data Analytics
 
 ---
