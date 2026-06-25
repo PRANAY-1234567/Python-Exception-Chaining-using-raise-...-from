@@ -3,7 +3,6 @@
 ## 📌 Overview
 
 This project demonstrates **Exception Chaining** in Python using the `raise ... from` statement.
-
 Exception chaining allows one exception to be raised while preserving information about another exception that caused it. This helps in debugging and provides better error tracing in complex applications.
 
 In this example:
