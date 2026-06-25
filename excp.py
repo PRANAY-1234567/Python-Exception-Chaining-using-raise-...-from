@@ -4,7 +4,6 @@ def test():
     except AttributeError as cause:
         raise ValueError("Main Exception") from cause
 
-
 try:
     test()
 
